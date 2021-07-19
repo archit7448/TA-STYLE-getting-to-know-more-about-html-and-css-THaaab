@@ -1,0 +1,35 @@
+img{
+    width:200px;
+    height:400px;
+}
+h1{
+   font-size: 150px;
+   color:white;
+
+}
+body{
+    background-color: black;
+}
+main{
+    color:white;
+}
+a{
+    font-size: 50px;
+    color: crimson;
+}
+.hello{
+    color: deeppink;
+}
+h2{
+    font-size: 120px;
+}
+h3{
+    font-size: 70px;
+}
+p{
+    font-size: 30px;
+}
+footer{
+    background-color: lightslategrey;
+}
+
